@@ -1,0 +1,125 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "nickname": "Bret",
+      "email": "Sincere@april.biz",
+      "token": "f0478b1441b5509761fb56447e97c6f8bd2ac760c01fb0408c6b5c51830a5bd9"
+    },
+    {
+      "name": "김무무",
+      "nickname": "누누",
+      "email": "sbnsdn@naver.com",
+      "token": "50e77f7f1d83965ecf531894329b85396e2c33e74fa0f786796072a769397c76",
+      "id": 4
+    },
+    {
+      "name": "무무",
+      "nickname": "무무",
+      "email": "aaa123@naver.com",
+      "token": "90bd9dc12de88bdf47a9cea6cda0da4ce03fa6ddb49c23f6d8c0489e85e114f7",
+      "id": 5
+    },
+    {
+      "name": "박나나",
+      "nickname": "나나",
+      "email": "amsi111@naver.com",
+      "token": "bca65d32b1c2cc266893a9d0c34203988b329b70c2a546804d52a91fc2262aec",
+      "id": 6
+    },
+    {
+      "name": "choihayeong",
+      "nickname": "hayeong",
+      "email": "gkdud1962@naver.com",
+      "token": "a3db966a8d467de1f36212b76b610e027c58c51552a45a8e36bb8fffc6784a22",
+      "id": 7
+    },
+    {
+      "name": "최하영",
+      "nickname": "최하영",
+      "email": "gkdud1962@aaaaa.com",
+      "token": "2e5637053c430bef5f533a23c53d3500c41a9c7ff63268a495618cac11362474",
+      "id": 8
+    },
+    {
+      "name": "최하영",
+      "nickname": "최하영",
+      "email": "gkdud1962@naver.com",
+      "token": "ㅇㅇㅇㅇㅇ",
+      "id": 9
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "title": "처음 공지사항",
+      "content": "첫 번째 공지사항입니다.",
+      "author": "관리자",
+      "day": "2022.06.12"
+    },
+    {
+      "title": "공지사항",
+      "content": "<p>공지사항 내용부분입니다</p>",
+      "author": "",
+      "id": 3
+    },
+    {
+      "title": "공지사항 테스트",
+      "content": "<p><i><strong>ㅇㅇㅇ</strong></i></p>",
+      "author": "",
+      "id": 4
+    },
+    {
+      "title": "제목 ",
+      "content": "<p>관리자 공지사항 본문</p>",
+      "author": "",
+      "id": 5
+    }
+  ],
+  "dashboard": [
+    {
+      "title": "안녕하세요",
+      "content": "<p>어쩌구저쩌구</p>",
+      "token": "c32ec5c9a2cde8c4915ddc63149d8fba6483d1435d605ff0fcca29f086d245d8",
+      "id": 3
+    },
+    {
+      "title": "마켓 거래 완료",
+      "content": "마켓에서 거래가 완료되었습니다.",
+      "token": "7d6f269328dd493e9357a9cd22156e77bab6c6e14f04a3a98ba2efae84325189",
+      "id": 5
+    },
+    {
+      "title": "마켓 거래 완료",
+      "content": "마켓에서 거래가 완료되었습니다.",
+      "token": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "id": 18
+    },
+    {
+      "title": "마켓 거래 완료",
+      "content": "마켓에서 거래가 완료되었습니다.",
+      "token": "4ea5c508a6566e76240543f8feb06fd457777be39549c4016436afda65d2330e",
+      "id": 20
+    },
+    {
+      "title": "마켓 거래 완료",
+      "content": "마켓에서 거래가 완료되었습니다.",
+      "token": "4ea5c508a6566e76240543f8feb06fd457777be39549c4016436afda65d2330e",
+      "id": 21
+    },
+    {
+      "title": "제목",
+      "content": "<p>본문</p>",
+      "token": "e0ef702bf523a43ef9445b24446e0d0c6e977b5709d15ca695b40b44f48d7114",
+      "id": 22
+    }
+  ],
+  "qna": {
+    "title": "",
+    "content": "",
+    "name": "",
+    "email": "",
+    "phone": ""
+  }
+}
